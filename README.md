@@ -1,2 +1,2 @@
-# Assignment-No-1
+# Python SMIT
 #Aiman Adeeb
